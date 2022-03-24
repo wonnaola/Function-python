@@ -9,4 +9,3 @@ def num():
     print(a[1:6],a[25:])
 num()
 
-        

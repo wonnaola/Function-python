@@ -6,5 +6,4 @@ def values(x):
             a.append(x[i])
         i+=1
     print(a,end=" ")
-    # x=[1,2,3,5,6,3,3,5,6]
 values([1,2,3,5,6,3,3,5,6])

@@ -4,6 +4,6 @@ def letter(x,y,z):
     while i<=y:
         a.append(i)
         i+=z
-    # return a
+    return a
 print(letter(2,20,2))
 
