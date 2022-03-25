@@ -3,5 +3,5 @@ def num():
     user2=input("enter anything")
     c=int(user1)+int(user2)
     d=str(c) 
-    print("'"+d+"'")
+    print(repr(d))
 num()

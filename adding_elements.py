@@ -6,4 +6,3 @@ def letter(x,y,z):
         i+=z
     return a
 print(letter(2,20,2))
-

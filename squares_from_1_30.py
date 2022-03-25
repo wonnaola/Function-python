@@ -6,6 +6,6 @@ def num():
         b=i*i
         a.append(b)
         i+=1
-    print(a[1:6],a[25:])
+    print(a[0:5],a[25:])
 num()
 
